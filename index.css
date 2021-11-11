@@ -134,15 +134,14 @@ border-radius: 2px;
         color: white;
         font-size: large;
     }
-    /*
- .getin{
+    .getin{
      height: 500px;
      width: 500px;
      background-color: white;
      margin-top: 70px;
      padding-left: 70px;
- } 
- #Username,#Email{
+    } 
+     #Username,#Email{
      height: 30px;
      width: 400px;
  }  
@@ -157,6 +156,7 @@ border-radius: 2px;
      height: 30px;
      width: 200px;
  }
+ /*
  footer{
   color: white; 
   background-color: navy; 
