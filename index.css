@@ -1,0 +1,162 @@
+/*body{
+    font-style: normal;
+    background-color: white;
+}ul{
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    font-size: 30px;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+    color: black;
+}
+.list{
+    float: right;
+    color: black;
+}
+.container{
+    width: 100%;
+    height: 750px;
+    background-image: url(images/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#but,#btn{
+margin-top: 10px;
+height: 50px;
+width: 200px;
+font-weight: bolder;
+border: none;
+color: white;
+background-color: blue;
+font-size: larger;
+margin-right: 60px;
+}
+#touch{
+    margin-top: 10px;
+    height: 50px;
+    width: 200px;
+    font-weight: bolder;
+    border: solid 2px white;
+    background: none;
+    color: white;
+    font-size: larger;
+}
+.container1{
+    width: 100%;
+    height: 600px;
+    margin-top: -100px;
+    display: flex;
+    padding-top: 10%;
+}
+.text{
+    flex: 1;
+  margin-left: 100px; 
+}
+#image{
+    flex: 1;
+}
+#get{
+    margin-top: 10px;
+    height: 50px;
+    width: 200px;
+    font-weight: bolder;
+    border: none;
+    color: white;
+    background-color: darkblue;
+    font-size: larger;
+    margin-right: 60px;  
+}
+.container2{
+    width: 100%;
+    height: 630px;
+    background-image: url(images/Rectangle\ 11.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 100px;
+}
+#in{
+    margin-top: 10px;
+    height: 50px;
+    width: 200px;
+    font-weight: bolder;
+    border: none;
+    color: white;
+    background-color: blue;
+    font-size: larger;
+    margin-right: 60px;   
+}
+.container3{
+    width: 100%;
+    height: 800px;
+
+}
+#img{
+width: 400px;
+}
+.our{
+    padding-top: 70px;
+ text-align: center;   
+}
+.air{
+    display: flex;
+    padding-top: 100px;
+    justify-content: space-around;
+}
+.box{
+box-shadow:  2px  2px 2px 3px rgb(221, 214, 214);
+width: 400px;
+border-radius: 2px;
+    }
+    .container4{
+        width: 100%;
+        height: 750px;
+        background-color: blue;
+        display:flex;
+        justify-content: space-around;
+    }
+    .contact{
+        color: white;
+        font-size: large;
+    }
+ .getin{
+     height: 500px;
+     width: 500px;
+     background-color: white;
+     margin-top: 70px;
+     padding-left: 70px;
+ } 
+ #Username,#Email{
+     height: 30px;
+     width: 400px;
+ }  
+ #Message{
+     width: 400px;
+     height: 80px;
+ }
+ #submit{
+     color: white;
+     background-color: blue;
+     text-align: center;
+     height: 30px;
+     width: 200px;
+ }
+ footer{
+  color: white; 
+  background-color: navy; 
+  padding: 80px; 
+  text-align: center;
+  font-size: 25px;
+ }*/
